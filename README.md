@@ -18,6 +18,8 @@ g++ main.cpp ParkingLot.cpp Vehicle.cpp Billing.cpp Vehicle.cpp -o parking
 
 ## Screenshots
 ![Entry](ENTRY.png)
+![Display](DISPLAY.png)
+
 
 ## Author
 Parth Kapadi
